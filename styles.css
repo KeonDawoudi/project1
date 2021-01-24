@@ -202,5 +202,13 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
+  .interests-title {
+    background-color: #efefef;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    display: table;
+    margin: 200px auto;
+  }
 
 }
